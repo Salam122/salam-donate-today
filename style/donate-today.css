@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header section */
+header {
+    background-image:linear-gradient(0deg, #663030 0%, rgba(214, 16, 82, 0) 100%), url('/images/13.jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+}
+
+.be-humble {
+    background: #FFF;
+    margin: 0;
+}
+
+.mot-title {
+    text-align: center;
+    padding-top: 75px;
+}
+
+.help-title {
+    color: #FFF;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    margin: 174px 310px 20px 310px;
+}
+
+.help-title-description {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 10px 375px 15px 375px;
+}
+
+.btn-primary {
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    width: 160px;
+    padding: 16px 12px;
+    justify-content: center;
+    gap: 8px;
+    border-radius: 5px;
+background: #FF5959;
+}
